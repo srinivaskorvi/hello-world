@@ -12,7 +12,7 @@ public class MyResourceTest {
 	public void test() {
 	
 		MyResource res = new MyResource();
-		assertEquals("Got it ok!", res.getIt());
+		assertEquals("Got it ok2!", res.getIt());
 		
 	}
 }
