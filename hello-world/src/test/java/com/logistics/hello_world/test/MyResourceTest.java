@@ -19,6 +19,6 @@ public class MyResourceTest {
 	@Test
 	public void GetTest() {	
 		MyResource res = new MyResource();
-		assertEquals("Srinivas!", res.get("Srinivas"));
+		assertEquals("Hello Srinivas!", res.get("Srinivas"));
 	}
 }
