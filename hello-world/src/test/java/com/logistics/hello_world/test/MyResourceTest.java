@@ -8,13 +8,13 @@ import com.logistics.hello_world.MyResource;
 
 public class MyResourceTest {
 
-	@Test
+	/*@Test
 	public void test() {
 	
 		MyResource res = new MyResource();
 		assertEquals("Got it ok!", res.getIt());
 		
-	}
+	}*/
 	
 	/*@Test
 	public void GetTest() {	
