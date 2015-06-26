@@ -19,7 +19,7 @@ public class MyResource {
      * @return String that will be returned as a text/plain response.
      */
     
-	private String name;
+	//private String name;
 	
 	@GET
     @Produces(MediaType.TEXT_PLAIN)
